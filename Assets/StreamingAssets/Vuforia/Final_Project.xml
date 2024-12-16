@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bucket_img" size="5.000000 6.265664" />
+    <ImageTarget name="terminal_img" size="5.000000 5.000000" />
+    <ImageTarget name="number_4" size="5.000000 5.000000" />
+    <ImageTarget name="number_6" size="5.000000 5.000000" />
+    <ImageTarget name="number_7" size="5.000000 5.000000" />
+    <ImageTarget name="phone_img" size="5.000000 5.000000" />
+    <ImageTarget name="hettie_name" size="5.000000 5.000000" />
+    <ImageTarget name="blackwood_name" size="5.000000 5.000000" />
+    <ImageTarget name="darby_name" size="5.000000 5.000000" />
+    <ImageTarget name="green_name" size="5.000000 5.000000" />
+    <ImageTarget name="brock_name" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>

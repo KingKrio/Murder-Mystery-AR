@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="phone_qr" size="5.000000 5.000000" />
+    <ImageTarget name="number_7_qr" size="5.000000 5.000000" />
+    <ImageTarget name="number_6_qr" size="5.000000 5.000000" />
+    <ImageTarget name="number_4_qr" size="5.000000 5.000000" />
+    <ImageTarget name="blackwood_qr" size="5.000000 5.000000" />
+    <ImageTarget name="hettie_qr" size="5.000000 5.000000" />
+    <ImageTarget name="brock_qr" size="5.000000 5.000000" />
+    <ImageTarget name="darby_qr" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
