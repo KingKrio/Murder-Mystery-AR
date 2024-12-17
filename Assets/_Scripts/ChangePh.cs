@@ -7,6 +7,7 @@ public class ChangePh : MonoBehaviour
 {
     private int phLvl;
     public TextMeshPro phLabel;
+    public GameObject clue;
 
     // Start is called before the first frame update
     void Start()
@@ -20,7 +21,7 @@ public class ChangePh : MonoBehaviour
     {
         if (phLvl == 11)
         {
-
+            clue.SetActive(true);
         }
     }
 
@@ -29,12 +30,12 @@ public class ChangePh : MonoBehaviour
         if (incPh && phLvl < 14)
         {
             phLvl++;
-            phLabel.text = "ph level: " + phLvl;
+            phLabel.text = "pH Value: " + phLvl;
         }
         else if (!incPh && phLvl > 0)
         {
             phLvl--;
-            phLabel.text = "ph level: " + phLvl;
+            phLabel.text = "pH Value: " + phLvl;
         }
     }
 }

@@ -18,7 +18,7 @@ public class EnterCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (code.text.Length == 3)
+        if (code.text.Length >= 3)
         {
             if (code.text.Equals("476"))
             {
@@ -31,7 +31,7 @@ public class EnterCode : MonoBehaviour
             }
         }
     }
-    public void DigitOnShow(string text)
+    public void EnterDigit(string text)
     {
         code.text = code.text + text;
     }
