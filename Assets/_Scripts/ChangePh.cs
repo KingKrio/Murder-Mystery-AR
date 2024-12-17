@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class ChangePh : MonoBehaviour
 {
-    private int phLvl;
+    private float phLvl;
     public TextMeshPro phLabel;
     public GameObject clue;
     public HoldButton blueHold, redHold;
