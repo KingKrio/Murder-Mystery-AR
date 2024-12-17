@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="bucket_img" size="5.000000 6.265664" />
-    <ImageTarget name="terminal_img" size="5.000000 5.000000" />
+    <ImageTarget name="police_box" size="5.000000 5.000000" />
+    <ImageTarget name="bucket_img" size="5.000000 4.980000" />
+    <ImageTarget name="email_img" size="5.000000 4.515945" />
     <ImageTarget name="number_4" size="5.000000 5.000000" />
     <ImageTarget name="number_6" size="5.000000 5.000000" />
     <ImageTarget name="number_7" size="5.000000 5.000000" />

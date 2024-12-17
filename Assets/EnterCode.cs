@@ -22,6 +22,7 @@ public class EnterCode : MonoBehaviour
         {
             if (code.text.Equals("476"))
             {
+                this.gameObject.SetActive(false);
                 email.SetActive(true);
             }
             else
