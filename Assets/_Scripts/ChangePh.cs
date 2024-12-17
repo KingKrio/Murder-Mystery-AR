@@ -22,6 +22,7 @@ public class ChangePh : MonoBehaviour
         if (phLvl == 11)
         {
             clue.SetActive(true);
+            phLabel.text = "";
         }
     }
 
